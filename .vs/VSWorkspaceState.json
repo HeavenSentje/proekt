@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\my-app\\build",
-    "\\my-app\\build\\static"
+    "\\my-app",
+    "\\my-app\\src",
+    "\\my-app\\src\\components",
+    "\\my-app\\src\\Pages"
   ],
-  "SelectedNode": "\\.git",
+  "SelectedNode": "\\app.js",
   "PreviewInSolutionExplorer": true
 }

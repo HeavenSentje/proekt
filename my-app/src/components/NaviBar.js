@@ -11,7 +11,6 @@ function Navibar() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link><Link to="/">Home</Link></Nav.Link>
-                        <Nav.Link><Link to="Users">Users</Link></Nav.Link>
                         <Nav.Link><Link to="About">About</Link></Nav.Link>
                     </Nav>
                     <Nav className="justify-content-end" style={{ width: "100%" }}>
